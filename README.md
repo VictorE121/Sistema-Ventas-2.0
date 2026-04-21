@@ -49,7 +49,7 @@ src/
 Clonar repositorio:
 
 ```
-git clone https://github.com/TU_USUARIO/sistema-ventas.git
+git clone https://github.com/VictorE121/Sistema-Ventas-2.0.git
 cd sistema-ventas
 ```
 
